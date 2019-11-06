@@ -1,0 +1,23 @@
+{
+  "name": "fish-pond",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel ./source/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekobird/fish-pond.git"
+  },
+  "author": "Andrew Prasetya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekobird/fish-pond/issues"
+  },
+  "homepage": "https://github.com/nekobird/fish-pond#readme",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
